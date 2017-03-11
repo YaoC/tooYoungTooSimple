@@ -1,3 +1,10 @@
+./cpp/*
+./python/*
+./java/*
+!*.cpp
+!*.c
+!.py
+!.java
 *.pyc
 *.o
 *.class
