@@ -1,0 +1,16 @@
+# Samples about C++ Java Python
+
+- [C++](https://github.com/YaoC/tooYoungTooSimple/tree/master/cpp)
+	- [数组的地址](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/address_of_array.cpp)
+	- [#define 机械地替换](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/macro.cpp)
+	- [mutable修饰符和const函数](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/mutable.cpp)
+	- [类型转换（对象）](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/object_cast.cpp)
+	- [X进制](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/octal.cpp)
+	- [指针的指针](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/pointers_to_pointers.cpp)
+	- [指针的指针2](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/pointers_to_pointers_2.cpp)
+	- [链表翻转](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/reverse_linked_list.cpp)
+	- [if的简写](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/string_or_int.c)
+	- [类型转换](https://github.com/YaoC/tooYoungTooSimple/blob/master/cpp/type_cast.c)
+- [Java](https://github.com/YaoC/tooYoungTooSimple/tree/master/java)
+	- [enter link description here](%E5%8F%AF%E8%A7%81%E6%80%A7)
+- [Python](https://github.com/YaoC/tooYoungTooSimple/tree/master/python)
